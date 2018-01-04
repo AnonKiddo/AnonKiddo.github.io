@@ -14,7 +14,7 @@ How to setup
 2) Open "Script.js" with any text editor and got to the line number 48:
 
         name = Math.floor((Math.random() * 27) + 1);
-                                         ^
+                                           ^
    and chenage the number 27 with the number of pics in your "Pics" folder.
 3) Open Index.html with a web browser and start.
 
@@ -22,6 +22,7 @@ How to setup
 Extra Setup
 ===========
 To edit the duration:
+
     > time = (Math.floor((Math.random() * 21) + 1) + 9);
                                           ^          ^
 9 rappresent minimum
