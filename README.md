@@ -1,11 +1,11 @@
 # Fap Gauntlet
 
-=====================
+
 What you need to play
 =====================
 All you need is a web browser to open "Index.html"
 
-============
+
 How to setup
 ============
 1) Put your pics in the "Pics" folder
@@ -17,7 +17,7 @@ How to setup
    and chenage the number 27 with the number of pics in your "Pics" folder.
 3) Open Index.html with a web browser and start.
 
-===========
+
 Extra Setup
 ===========
 To edit the duration:
