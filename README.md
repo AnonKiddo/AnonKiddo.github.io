@@ -12,7 +12,7 @@ How to setup
     IMPORTANT: all pics must be .jpg and you have to rename every pic with a number.
     IMPORTANT#2: do not skin numbers or it wont work well.
 2) Open "Script.js" with any text editor and got to the line number 48:
-    > name = Math.floor((Math.random() * 27) + 1);
+        name = Math.floor((Math.random() * 27) + 1);
                                          ^
    and chenage the number 27 with the number of pics in your "Pics" folder.
 3) Open Index.html with a web browser and start.
